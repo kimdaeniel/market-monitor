@@ -1,7 +1,7 @@
 {
  "2026-11-03": {
   "date": "2026-11-03",
-  "generated_at": "2026-11-03 11:56 KST",
+  "generated_at": "2026-11-03 12:01 KST",
   "daily": [
    {
     "id": "us10y",
@@ -20,10 +20,10 @@
     "name": "WTI 유가",
     "unit": "달러",
     "kind": "oil",
-    "value": 96.78,
+    "value": 96.59,
     "asof": "2026-11-02",
-    "chg1d": -7.05,
-    "chg20d": 8.22,
+    "chg1d": -7.23,
+    "chg20d": 8.01,
     "status": "watch",
     "note": "90달러대: 지속되면 기업 마진 부담"
    },
@@ -32,10 +32,10 @@
     "name": "달러 인덱스",
     "unit": "",
     "kind": "fx",
-    "value": 101.85,
+    "value": 101.82,
     "asof": "2026-11-02",
-    "chg1d": -0.03,
-    "chg20d": -0.31,
+    "chg1d": -0.06,
+    "chg20d": -0.34,
     "status": "ok",
     "note": "20거래일 변동 작음"
    },
@@ -44,10 +44,10 @@
     "name": "원/달러",
     "unit": "원",
     "kind": "fx",
-    "value": 1338.08,
+    "value": 1337.9,
     "asof": "2026-11-03",
-    "chg1d": 0.95,
-    "chg20d": -0.42,
+    "chg1d": 0.93,
+    "chg20d": -0.44,
     "status": "ok",
     "note": "20거래일 변동 작음"
    },
@@ -84,14 +84,14 @@
     "name": "코스피",
     "unit": "",
     "kind": "index",
-    "value": 5704.6,
+    "value": 5701.85,
     "asof": "2026-11-03",
-    "chg1d": -2.64,
-    "chg20d": -18.55,
+    "chg1d": -2.68,
+    "chg20d": -18.59,
     "status": "warn",
     "note": "200일선 아래, 고점 대비 -37.4%",
     "above_ma200": false,
-    "drawdown": -37.41
+    "drawdown": -37.44
    }
   ],
   "weekly": [
@@ -110,7 +110,7 @@
     "asof": "2026-11-03",
     "slow_k": 22.5,
     "slow_d": 31.5,
-    "williams": -87.0,
+    "williams": -87.1,
     "signal": "neutral",
     "std_pctl": 81,
     "std_low": false
